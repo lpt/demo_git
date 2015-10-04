@@ -1,5 +1,5 @@
 function a(){
- var ma_variable= "A"
+ var ma_variable= "AAAA"
  return ma_variable
  
 function b(){
